@@ -4,3 +4,5 @@ This project was done for NASA India Space Apps Hackathon Prelims where we used 
 The Forests.ipynb contains the training code that was used.
 
 The nasa_model_server_django folder contains the django project which serves up the model as a REST Web service. Please note that the code written for the REST Web service was just written for demo purposes and has not been modified since so there might be quite a few quirks there.
+
+The final f2 score that we were able to achieve was ~ 0.927.
