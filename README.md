@@ -1,5 +1,5 @@
 # predict_deforestation
-This project was done for NASA India Space Apps Hackathon Prelims where we used data from ( https://kaggle.com/c/planet-understanding-the-amazon-from-space ) challenge to train a model and then use images from NASA's Landsat 8 satellite via their API to predict deforestation related activities and serve it as an API 
+This project was done for NASA India Space Apps Hackathon where we used data from ( https://kaggle.com/c/planet-understanding-the-amazon-from-space ) challenge to train a model and then use images from NASA's Landsat 8 satellite via their API to predict deforestation related activities and serve it as an API 
 
 The Forests.ipynb contains the training code that was used.
 
